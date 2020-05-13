@@ -4,12 +4,10 @@ In this project classifier algorithms were used to predict whether a loan case w
 
 ### Technologies used:
 
-- python
-- pandas, numpy
+- Python, pandas, numpy
 - sklearn, scipy
 - classification algorithms: K-Nearest neighbours (KNN), support vector machine (SVM), decision tree, logitic regression
 - matplotlib, seaborn
-- jupyter notebooks, anaconda
 
 ## Installation
 
